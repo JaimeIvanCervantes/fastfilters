@@ -1,4 +1,3 @@
-from .core import *
 import numpy as np
 
 __version__ = core.__version__
